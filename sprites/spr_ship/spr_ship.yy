@@ -2,7 +2,7 @@
     "id": "491d38ae-08bf-4e14-b4bb-8189bf6ccf1e",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "ship",
+    "name": "spr_ship",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -1,28 +1,28 @@
 {
-    "id": "55196f3f-ddae-4a72-8ba3-5e69c67eeec6",
+    "id": "272d26db-7f19-4b51-805d-0e6a56479fb1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_steroids",
+    "name": "obj_gameoptions",
     "eventList": [
         {
-            "id": "a524e0b5-2c34-4c36-b541-4a4d678542c0",
+            "id": "2221d407-d344-4740-b22f-224248ef1567",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "55196f3f-ddae-4a72-8ba3-5e69c67eeec6"
+            "enumb": 2,
+            "eventtype": 7,
+            "m_owner": "272d26db-7f19-4b51-805d-0e6a56479fb1"
         },
         {
-            "id": "080e71b5-bf3e-4db2-8ee3-7b5d10fa7281",
+            "id": "37997b61-c8c4-4b81-8e89-aac2172386f7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "55196f3f-ddae-4a72-8ba3-5e69c67eeec6"
+            "m_owner": "272d26db-7f19-4b51-805d-0e6a56479fb1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,9 +41,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

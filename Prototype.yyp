@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "15004f8a-6c6b-46eb-8c3f-0e657f4e5bfb",
+            "Value": {
+                "id": "a6d0564a-1082-4019-9a1c-c44e5eec1d50",
+                "resourcePath": "sprites\\spr_steroid_huge\\spr_steroid_huge.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "23f29d63-7da4-4de6-8975-f6f17c0afc12",
             "Value": {
                 "id": "01e3eb5a-efc4-47f3-85bf-223b8e53cb8a",
                 "resourcePath": "views\\23f29d63-7da4-4de6-8975-f6f17c0afc12.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "272d26db-7f19-4b51-805d-0e6a56479fb1",
+            "Value": {
+                "id": "af7fb24b-5ba9-4a3b-9192-bf4a3a60b315",
+                "resourcePath": "objects\\obj_gameoptions\\obj_gameoptions.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -74,7 +90,7 @@
             "Key": "47f33369-4ebd-425f-ad6f-d658d2f9648e",
             "Value": {
                 "id": "a94e9f89-c4e7-4067-9d5c-bdc27011394a",
-                "resourcePath": "sprites\\spr_steroid_huge\\spr_steroid_huge.yy",
+                "resourcePath": "sprites\\spr_steroid_medium\\spr_steroid_medium.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -82,7 +98,7 @@
             "Key": "491d38ae-08bf-4e14-b4bb-8189bf6ccf1e",
             "Value": {
                 "id": "1b815f7a-412f-4d42-a62b-588d74708189",
-                "resourcePath": "sprites\\ship\\ship.yy",
+                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +114,7 @@
             "Key": "4fabd913-898c-48d0-b0e2-69b561785355",
             "Value": {
                 "id": "02eaf6ba-a7f5-46dd-96ec-e4048e7d95cd",
-                "resourcePath": "sprites\\spr_steroid_medium\\spr_steroid_medium.yy",
+                "resourcePath": "sprites\\spr_steroid_small\\spr_steroid_small.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -127,11 +143,11 @@
             }
         },
         {
-            "Key": "7724d41e-675a-4367-8bdc-570507452260",
+            "Key": "72e3dbf0-572e-494f-adab-107e1b4597cb",
             "Value": {
-                "id": "35191bd5-e583-432d-9ac6-8cfb349c0818",
-                "resourcePath": "sprites\\spr_steroid_small\\spr_steroid_small.yy",
-                "resourceType": "GMSprite"
+                "id": "b6ed3bc5-c0eb-4caa-9f0a-d6b335644747",
+                "resourcePath": "objects\\obj_debris\\obj_debris.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +164,14 @@
                 "id": "5f8d8f5e-0c53-4534-bb93-a3ad2d0c97f3",
                 "resourcePath": "views\\9b394612-09b9-4588-ab4a-cf9304a65dcd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a4a2b49e-b100-48b6-9950-b487d0388a33",
+            "Value": {
+                "id": "800c6430-cd42-4e23-bca9-5a6f5b61384b",
+                "resourcePath": "objects\\obj_gui_score\\obj_gui_score.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -178,7 +202,7 @@
             "Key": "b359670b-878b-4de5-b817-76e3a34536ea",
             "Value": {
                 "id": "899de7e0-69f3-4b71-bfa6-3d9d2b34606b",
-                "resourcePath": "sprites\\bullet\\bullet.yy",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -220,6 +244,14 @@
                 "id": "12619262-5d4f-4085-b817-31885604c98e",
                 "resourcePath": "views\\d2ace507-fe79-4f83-b655-2cc9ad01a9a3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e0c0625b-2834-4d5d-a1f1-7d32d113ae53",
+            "Value": {
+                "id": "b0a9dfc3-ba19-46e9-b3d5-fc1cb4f58d67",
+                "resourcePath": "sprites\\spr_debris\\spr_debris.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
