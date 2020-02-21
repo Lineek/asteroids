@@ -12,15 +12,15 @@ if (keyboard_check(vk_up)) {
 	motion_add(image_angle, 0.1)
 }
 
-if (keyboard_check(vk_down)) {
-	motion_add(image_angle, -0.1)
+if (speed > 0 && keyboard_check(vk_down)) {
+	speed -= 0.1;
 }
 
 if (speed > 6) {
-	speed = 6;
+	speed = 4;
 }
 
-if (speed > 0 && !(keyboard_check(vk_up) || keyboard_check(vk_down))) {
+if (speed > 0 && !keyboard_check(vk_up)) {
 	speed = speed - 0.05;
 }
 
